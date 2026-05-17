@@ -45,7 +45,6 @@ python stopwatch.py
 - Using `after()` for timing
 - Updating GUI elements
 - Basic stopwatch logic
-````md id="8m2vkp"
 
 
 # Timer
