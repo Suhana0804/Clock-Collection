@@ -1,6 +1,6 @@
 # Clock Collection
 
-This repository contains stopwatch and timer projects made using Python and Tkinter.
+This repository contains simple clock projects made using Python and Tkinter.
 # Stopwatch
 
 This is a simple Stopwatch made using Python and Tkinter.
